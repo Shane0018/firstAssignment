@@ -1,0 +1,31 @@
+h1{
+    color:purple;
+}
+
+p {
+    color:rebeccapurple;
+}
+
+body{
+    color:red;
+}
+
+a:hover {
+    color:darkorange;
+}
+
+.testing {
+    color: aqua;
+}
+
+.testing+li {
+    color: gold;
+}
+
+ol > li {
+    color: cadetblue;
+}
+
+ol :nth-child(2n) {
+    background-color: palegreen;
+}
